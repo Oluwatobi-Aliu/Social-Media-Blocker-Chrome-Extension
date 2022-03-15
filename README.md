@@ -22,15 +22,14 @@ This Project was created with:
 - JavaScript - version ES6
 - CSS - version 2.1
 - HTML - version 5
-
+- 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
 ## Setup and Usage
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-What project requirement no external modules or dependencies.
+This project required no external modules or dependencies.
 
 - **How to run the project**
   - Download the source code and unzip
